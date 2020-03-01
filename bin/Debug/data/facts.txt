@@ -1,0 +1,13 @@
+[
+	
+	"North Korea and Cuba are the only places you can't buy Coca-Cola",
+	"The entire world's population could fit inside Los Angeles",
+	"The hottest chili pepper in the world is so hot it could kill you",
+	"More people visit France than any other country",
+	"The world's most densely populated island is the size of two soccer fields",
+	"The Canary Islands are named after dogs, not birds",
+	"Indonesia is home to some of the shortest people in the world",
+	"McDonald’s once made bubblegum-flavored broccoli"
+
+	
+]

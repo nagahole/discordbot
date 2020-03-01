@@ -1,0 +1,1 @@
+{"caseprice":600,"milispec":0.7992,"restricted":0.1598,"classified":0.032,"covert":0.0064,"yellow":0.0026}
